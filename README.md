@@ -1,2 +1,2 @@
 # Olympics in Tokyo
-* Dataset
+* Data Set
